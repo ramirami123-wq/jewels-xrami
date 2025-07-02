@@ -23,6 +23,7 @@
     "colors_overlay": "#212326",
     "colors_keyboard_focus": "#87adf5",
     "colors_shadow": "#a8e8e2",
+    "colors_highlight": "#d1b24a",
     "type_header_font": "josefin_sans_n4",
     "heading_scale": 100,
     "heading_capitalize": false,

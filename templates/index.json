@@ -112,10 +112,155 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_tVNrLk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rPRD6Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Made with Purpose",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_HN3gyr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Crafted from the heart, our pieces are built on fait hand made to be part of your every day moments.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": "heart\nfaith\nmoments",
+            "highlight_style": "underline"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rPRD6Q",
+        "text_HN3gyr"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_eYChU7": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "products",
+        "products_to_show": 4,
+        "horizontal_scroll": false,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "Our Customers Favorites",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_EU9PQn": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_MCgPHJ": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Welcome to our store",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_XJciHX": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Welcome to our store",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_whMfym": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Welcome to our store",
+            "text_size": 20,
+            "link": ""
+          }
+        },
+        "announcement_XUDnQy": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Welcome to our store",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_MCgPHJ",
+        "announcement_XJciHX",
+        "announcement_whMfym",
+        "announcement_XUDnQy"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "slideshow",
-    "guarantees_FEhw9U"
+    "guarantees_FEhw9U",
+    "rich_text_tVNrLk",
+    "featured_collection_eYChU7",
+    "scrolling_promotion_EU9PQn"
   ]
 }
