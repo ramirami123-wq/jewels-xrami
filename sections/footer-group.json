@@ -20,26 +20,10 @@
             "heading": "Shop",
             "menu": "footer"
           }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Explore",
-            "menu": "footer"
-          }
-        },
-        "footer-2": {
-          "type": "link_list",
-          "settings": {
-            "heading": "More",
-            "menu": "footer"
-          }
         }
       },
       "block_order": [
-        "footer-0",
-        "footer-1",
-        "footer-2"
+        "footer-0"
       ],
       "settings": {
         "show_divider": true,
