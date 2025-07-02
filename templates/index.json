@@ -196,7 +196,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Handmade magic waiting for you",
             "text_size": 20,
             "link": ""
           }
@@ -207,7 +207,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Be bold, Be blessed",
             "text_size": 20,
             "link": ""
           }
@@ -218,18 +218,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Welcome to our store",
-            "text_size": 20,
-            "link": ""
-          }
-        },
-        "announcement_XUDnQy": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Welcome to our store",
+            "text": "Handmade magic waiting for you",
             "text_size": 20,
             "link": ""
           }
@@ -238,19 +227,151 @@
       "block_order": [
         "announcement_MCgPHJ",
         "announcement_XJciHX",
-        "announcement_whMfym",
-        "announcement_XUDnQy"
+        "announcement_whMfym"
       ],
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
         "speed": 1.6,
         "show_divider": false,
-        "use_custom_colors": false,
+        "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#d1b24a",
         "gradient_background": "",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "images_with_text_Y64yph": {
+      "type": "images-with-text",
+      "blocks": {
+        "heading_QhEUCX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Perfect Fit",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_mcGrbB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our bracelets are designed with an adjustable fit, making them easy to wear and comfortable for all wrist sizes, no clasp struggles, just a smooth and secure fit every time.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_DcThzg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/all",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QhEUCX",
+        "text_mcGrbB",
+        "button_DcThzg"
+      ],
+      "name": "t:sections.images-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/wornring.webp",
+        "image_2": "shopify://shop_images/359A1134.png",
+        "image_3": "shopify://shop_images/359A0940.png",
+        "image_4": "shopify://shop_images/ban11.webp",
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faq_mRjgrM": {
+      "type": "faq",
+      "blocks": {
+        "question_FAP3dn": {
+          "type": "question",
+          "settings": {
+            "title": "Are your pieces handmade?",
+            "text": "<p>Yes, all of our jewelry is handcrafted with care and intention to ensure each piece holds meaning and quality.</p>"
+          }
+        },
+        "question_cCmgGq": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer custom or personalized jewelry?",
+            "text": "<p>We do! You can add names, dates, or meaningful words to selected bracelets and necklaces.</p>"
+          }
+        },
+        "question_K7CRBD": {
+          "type": "question",
+          "settings": {
+            "title": "How long does it take to receive my order?",
+            "text": "<p>Most orders within 2 to 4 business days. Custom orders may take a little longer depending on the request.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_FAP3dn",
+        "question_cCmgGq",
+        "question_K7CRBD"
+      ],
+      "name": "t:sections.faq.presets.name",
+      "settings": {
+        "narrow": false,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "testimonials_aQ8BYg": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_U9x7dr": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Jewelry That Feels Like Home</p>",
+            "author": "Baraka Jewels"
+          }
+        },
+        "testimonial_rhCPth": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Made With Love</p>",
+            "author": "Baraka Jewels"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_U9x7dr",
+        "testimonial_rhCPth"
+      ],
+      "name": "t:sections.testimonials.presets.name",
+      "settings": {
+        "autorotate": true,
+        "autorotate_speed": 5,
+        "hide_images": true,
+        "show_divider": false,
+        "heading": "A Feeling That You Can Wear",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -261,6 +382,9 @@
     "guarantees_FEhw9U",
     "rich_text_tVNrLk",
     "featured_collection_eYChU7",
-    "scrolling_promotion_EU9PQn"
+    "scrolling_promotion_EU9PQn",
+    "images_with_text_Y64yph",
+    "faq_mRjgrM",
+    "testimonials_aQ8BYg"
   ]
 }
