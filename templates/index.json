@@ -104,9 +104,9 @@
         "heading_tag": "h2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "use_custom_colors": false,
+        "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
+        "colors_text": "#d1b24a",
         "colors_background": "#ffffff",
         "gradient_background": "",
         "padding_top": 36,
@@ -127,7 +127,7 @@
         "text_HN3gyr": {
           "type": "text",
           "settings": {
-            "text": "<p>Crafted from the heart, our pieces are built on fait hand made to be part of your every day moments.</p>",
+            "text": "<p>Crafted from the heart, our pieces are built on faith and made to be part of your every day moments.</p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "heart\nfaith\nmoments",
