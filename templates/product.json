@@ -74,18 +74,15 @@
             "keep_open": false
           }
         },
-        "inventory_status": {
-          "type": "inventory_status",
+        "collapsible_tab_EWz9d4": {
+          "type": "collapsible_tab",
           "settings": {
-            "inventory_threshold": 20,
-            "show_inventory_transfer": true,
-            "color_scheme": "accent-3"
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
+            "icon": "ruler",
+            "heading": "Size chart",
+            "content": "<p><strong>• Height:</strong>6 cm<br/><strong>• Width:</strong>6.5 cm<br/><strong>• Thickness:</strong>0,2 cm<br/><strong>• Weight:</strong>12.6 grams</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
           }
         },
         "related_buttons": {
@@ -110,8 +107,7 @@
         "buy_buttons",
         "custom_liquid_fYcGFb",
         "collapsible_description_89DWLm",
-        "inventory_status",
-        "share",
+        "collapsible_tab_EWz9d4",
         "related_buttons",
         "sticky_cart"
       ],
