@@ -69,7 +69,7 @@
         "collapsible_description_89DWLm": {
           "type": "collapsible_description",
           "settings": {
-            "icon": "none",
+            "icon": "clipboard",
             "heading": "Description",
             "keep_open": false
           }
@@ -114,6 +114,9 @@
         "share",
         "related_buttons",
         "sticky_cart"
+      ],
+      "custom_css": [
+        ".share-button {display: none;}"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -305,11 +308,11 @@
             "sub_heading_color": "#000000",
             "content_color": "#000000",
             "link_color": "#000000",
-            "link_hover_color": "#CFCDCD",
+            "link_hover_color": "#cfcdcd",
             "link_bg_color": "",
             "link_bg_hover_color": "",
             "link_border_color": "#000000",
-            "link_border_hover_color": "#CFCDCD"
+            "link_border_hover_color": "#cfcdcd"
           }
         }
       },
@@ -325,7 +328,7 @@
         "full_width": false,
         "content_width": 120,
         "border_thickness": 0,
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "divider_color": "#000000",
