@@ -70,7 +70,7 @@
             "icon": "heart",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Made With Love",
+            "title": "Handcrafted",
             "title_size": "h3",
             "text": ""
           }
@@ -102,7 +102,7 @@
         "heading": "",
         "heading_size": "h1",
         "heading_tag": "h2",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
@@ -166,7 +166,7 @@
         "horizontal_scroll": false,
         "show_view_all": true,
         "show_divider": false,
-        "heading": "Our Customers Favorites",
+        "heading": "Customer Favorites",
         "heading_size": "h1",
         "heading_alignment": "left",
         "heading_tag": "h2",
@@ -287,8 +287,8 @@
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
         "full_width": false,
         "show_divider": false,
         "padding_top": 36,
@@ -307,6 +307,7 @@
         },
         "question_cCmgGq": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "Do you offer custom or personalized jewelry?",
             "text": "<p>We do! You can add names, dates, or meaningful words to selected bracelets and necklaces.</p>"
@@ -316,7 +317,7 @@
           "type": "question",
           "settings": {
             "title": "How long does it take to receive my order?",
-            "text": "<p>Most orders within 2 to 4 business days. Custom orders may take a little longer depending on the request.</p>"
+            "text": "<p>We offer Free Delivery on all orders, all over UAE.</p><p>Orders are delivered the same day<strong> </strong>or the next day if placed late in the day.</p>"
           }
         }
       },
@@ -349,7 +350,31 @@
             "author": "Baraka Jewels"
           }
         },
+        "testimonial_wUTQbM": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Made for moments you never want to forget</p>",
+            "author": "Baraka Jewels"
+          }
+        },
+        "testimonial_trNkpV": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Designed to catch eyes and hold meaning</p>",
+            "author": "Baraka Jewels"
+          }
+        },
         "testimonial_rhCPth": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Jewelry that feels like a blessing</p>",
+            "author": "Baraka Jewels"
+          }
+        },
+        "testimonial_6rtPDb": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
@@ -360,7 +385,10 @@
       },
       "block_order": [
         "testimonial_U9x7dr",
-        "testimonial_rhCPth"
+        "testimonial_wUTQbM",
+        "testimonial_trNkpV",
+        "testimonial_rhCPth",
+        "testimonial_6rtPDb"
       ],
       "name": "t:sections.testimonials.presets.name",
       "settings": {
