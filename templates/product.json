@@ -76,6 +76,7 @@
         },
         "collapsible_tab_EWz9d4": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "icon": "ruler",
             "heading": "Size chart",
