@@ -301,8 +301,22 @@
         "question_FAP3dn": {
           "type": "question",
           "settings": {
+            "title": "Do you use real gold?",
+            "text": "<p>Absolutely. We only use real gold plating on all of our gold pieces. Underneath, we use pure stainless steel so that you can wear this piece around water and sweat and never worry about any fading or tarnishing.</p><p>Our Rose Gold pieces have the same pure stainless steel base, and are coated with real gold, but blended with copper to achieve its gorgeous rose-colored hue.</p><p>Our Silver pieces are also made from pure stainless steel, and simply polished for that beautiful lifelong shine.</p><p>Men's pieces are all made with pure stainless steel for the same waterproof & sweatproof promise.</p>"
+          }
+        },
+        "question_RqffQE": {
+          "type": "question",
+          "settings": {
             "title": "Are your pieces handmade?",
             "text": "<p>Yes, all of our jewelry is handcrafted with care and intention to ensure each piece holds meaning and quality.</p>"
+          }
+        },
+        "question_ekB3gA": {
+          "type": "question",
+          "settings": {
+            "title": "Is there a warranty with my piece?",
+            "text": "<p>Absolutely. We cover every single piece we sell with a Lifetime Warranty against any rust or tarnish, if you ever experience any fading on your jewelry, just e-mail us a photo and we'll get you taken care of.</p>"
           }
         },
         "question_cCmgGq": {
@@ -323,6 +337,8 @@
       },
       "block_order": [
         "question_FAP3dn",
+        "question_RqffQE",
+        "question_ekB3gA",
         "question_cCmgGq",
         "question_K7CRBD"
       ],
