@@ -91,6 +91,28 @@
             "keep_open": false
           }
         },
+        "collapsible_tab_KYDBxU": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "ruler",
+            "heading": "Real 18K Gold Plating on Pure Stainless Steel & fully adjustable; one size fits all.",
+            "content": "<ul><li><strong>Material:</strong> Real 18K Gold Plating on Pure Stainless Steel</li><li><strong>Size:</strong> 15.25 cm (Average wrist size) - Adjustable to any size</li><li><strong>Height:</strong> 6 cm</li><li><strong>Thickness: </strong>0.2 cm</li><li><strong>Weight:</strong>12.6 grams</li><li><strong>Hypoallergenic | Sensitive-skin Friendly</strong></li></ul>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_7tXij6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "clipboard",
+            "heading": "Jewelry built on faith",
+            "content": "<p>The Ayatul Kursi Bangle features the most powerful verse in the Qur'an, beautifully engraved across its front and back. Known for providing protection when recited, this intricate calligraphy design offers timeless beauty and profound meaning.</p><p>Reciting Ayatul Kursi every morning offers divine protection until nightfall.</p><p>Wear this piece as a daily reminder of your faith, or gift it to a loved one.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "sticky_cart": {
           "type": "sticky_cart",
           "settings": {
@@ -108,6 +130,8 @@
         "buy_buttons",
         "custom_liquid_fYcGFb",
         "collapsible_tab_EWz9d4",
+        "collapsible_tab_KYDBxU",
+        "collapsible_tab_7tXij6",
         "sticky_cart"
       ],
       "custom_css": [
@@ -172,6 +196,7 @@
         "announcement-1",
         "announcement-3"
       ],
+      "disabled": true,
       "settings": {
         "direction": "left",
         "speed": 1.6,
@@ -191,10 +216,10 @@
         "guarantee-0": {
           "type": "guarantee",
           "settings": {
-            "icon": "ruler",
-            "icon_size": "medium",
+            "icon": "truck",
+            "icon_size": "small",
             "custom_icon": "",
-            "title": "Adjustable Fit",
+            "title": "Free Delivery All Over🇦🇪",
             "title_size": "h4",
             "text": ""
           }
@@ -202,10 +227,10 @@
         "guarantee-1": {
           "type": "guarantee",
           "settings": {
-            "icon": "shield",
-            "icon_size": "medium",
+            "icon": "shop",
+            "icon_size": "small",
             "custom_icon": "",
-            "title": "Tarnish Resistant",
+            "title": "1 Item = 1 Meal to Palestine",
             "title_size": "h4",
             "text": ""
           }
@@ -213,10 +238,21 @@
         "guarantee-2": {
           "type": "guarantee",
           "settings": {
-            "icon": "heart",
-            "icon_size": "medium",
+            "icon": "price_tag",
+            "icon_size": "small",
             "custom_icon": "",
-            "title": "Handcrafted Quality",
+            "title": "Lifetime Warranty on All Jewelry",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee_FFVfEh": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "small",
+            "custom_icon": "",
+            "title": "Perfect for Gifting to Your Loved One",
             "title_size": "h4",
             "text": ""
           }
@@ -225,7 +261,8 @@
       "block_order": [
         "guarantee-0",
         "guarantee-1",
-        "guarantee-2"
+        "guarantee-2",
+        "guarantee_FFVfEh"
       ],
       "custom_css": [
         "span {color: white;}"
@@ -234,11 +271,11 @@
         "layout": "default",
         "column_alignment": "center",
         "horizontal_content": false,
-        "full_width": true,
+        "full_width": false,
         "show_divider": false,
-        "columns_desktop": 3,
-        "heading": "Guarantees",
-        "heading_size": "h1",
+        "columns_desktop": 4,
+        "heading": "",
+        "heading_size": "h2",
         "heading_tag": "h2",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
@@ -247,7 +284,7 @@
         "colors_text": "#1a1b18",
         "colors_background": "#ffffff",
         "gradient_background": "",
-        "padding_top": 72,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -314,6 +351,7 @@
       "block_order": [
         "text_rrD8zE"
       ],
+      "disabled": true,
       "name": "r - countup",
       "settings": {
         "stack_mobile": false,
@@ -391,17 +429,17 @@
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
-        "heading": "You May Also Like",
-        "heading_size": "h1",
+        "heading": "Don't forget these",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "heading_tag": "h2",
         "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
         "image_position": "center center",
         "enable_image_fill": true,
         "show_secondary_image": true,
-        "show_vendor": true,
+        "show_vendor": false,
         "show_rating": true,
         "show_quick_buy": true,
         "enable_quick_view": true,
