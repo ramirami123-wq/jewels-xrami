@@ -171,62 +171,6 @@
         "padding_bottom": 72
       }
     },
-    "scrolling-promotion": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement-0": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Jewelry that holds your moments",
-            "text_size": 16,
-            "link": ""
-          }
-        },
-        "announcement-1": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Crafted with meaning and care",
-            "text_size": 16,
-            "link": ""
-          }
-        },
-        "announcement-3": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "Made to wear every day",
-            "text_size": 16,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement-0",
-        "announcement-1",
-        "announcement-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#f1ff34",
-        "colors_text": "#ffffff",
-        "colors_background": "#d1b24a",
-        "gradient_background": "",
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "guarantees": {
       "type": "guarantees",
       "blocks": {
@@ -293,6 +237,62 @@
         "padding_bottom": 36
       }
     },
+    "scrolling-promotion": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement-0": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Jewelry that holds your moments",
+            "text_size": 16,
+            "link": ""
+          }
+        },
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Crafted with meaning and care",
+            "text_size": 16,
+            "link": ""
+          }
+        },
+        "announcement-3": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Made to wear every day",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-0",
+        "announcement-1",
+        "announcement-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#f1ff34",
+        "colors_text": "#ffffff",
+        "colors_background": "#d1b24a",
+        "gradient_background": "",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
     "so_wffMjg": {
       "type": "so",
       "blocks": {
@@ -356,6 +356,7 @@
       "block_order": [
         "text_rrD8zE"
       ],
+      "disabled": true,
       "name": "r - countup",
       "settings": {
         "stack_mobile": false,
@@ -433,8 +434,8 @@
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
-        "heading": "You May Also Like",
-        "heading_size": "h1",
+        "heading": "Don't forget these",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "heading_tag": "h2",
         "columns_mobile": "1",
