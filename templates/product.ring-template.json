@@ -96,9 +96,20 @@
         "collapsible_tab_LtAe8x": {
           "type": "collapsible_tab",
           "settings": {
-            "icon": "price_tag",
-            "heading": "Wear it for 100 days, risk-free.🕒 If you see any tarnish or rust — full refund! 💵",
-            "content": "<p>We want you to be 100% satisfied with your purchase.<br/><br/>If you see any tarnish or rust with your Ayatul Kursi Ring, you can ask for a full refund within 100 days of delivery, no questions asked.</p>",
+            "icon": "ruler",
+            "heading": "Real 18K Gold Plating on Pure Stainless Steel & fully adjustable; one size fits all",
+            "content": "<ul><li><strong>Material:</strong> Real 18K Gold Plating on Pure Stainless Steel</li><li><strong>Hypoallergenic | Sensitive Skin-Friendly</strong></li></ul>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_xmENGN": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "ruler",
+            "heading": "Jewelry built on faith",
+            "content": "<p>The Ayatul Kursi Ring features the most powerful verse in the Qur'an, beautifully engraved across its front and back. Known for providing protection when recited, this intricate calligraphy design offers timeless beauty and profound meaning.</p><p>Reciting Ayatul Kursi every morning offers divine protection until nightfall.</p><p>Wear this piece as a daily reminder of your faith, or gift it to a loved one.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -122,6 +133,7 @@
         "collapsible_tab_EWz9d4",
         "collapsible_tab_8jUdJ9",
         "collapsible_tab_LtAe8x",
+        "collapsible_tab_xmENGN",
         "sticky_cart"
       ],
       "custom_css": [
