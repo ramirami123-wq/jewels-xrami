@@ -59,6 +59,14 @@
             "size_chart": ""
           }
         },
+        "text_87hmGD": {
+          "type": "text",
+          "settings": {
+            "icon": "truck",
+            "text": "Free Delivery All Over🇦🇪",
+            "text_style": "subtitle"
+          }
+        },
         "pumper_bundles_quantity_breaks_app_block_qb_JAhRWy": {
           "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
           "settings": {
@@ -120,6 +128,7 @@
         "rating",
         "price",
         "variant_picker",
+        "text_87hmGD",
         "pumper_bundles_quantity_breaks_app_block_qb_JAhRWy",
         "buy_buttons",
         "custom_liquid_fYcGFb",
