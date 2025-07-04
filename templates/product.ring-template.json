@@ -445,7 +445,7 @@
         "show_rating": true,
         "show_quick_buy": true,
         "enable_quick_view": true,
-        "enable_color_swatches": true,
+        "enable_color_swatches": false,
         "enable_countdown": true,
         "padding_top": 36,
         "padding_bottom": 36
