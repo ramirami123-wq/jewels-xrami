@@ -15,6 +15,8 @@
         "slide-0": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Nominal_image_3.webp",
+            "image_mobile": "shopify://shop_images/Nominal_image_3.webp",
             "image_position": "center center",
             "text_box_position": "bottom-left",
             "subheading": "",
@@ -57,7 +59,7 @@
         "colors_navigation_text": "#ffffff",
         "colors_navigation_background": "#1a1b18",
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "guarantees_FEhw9U": {
@@ -66,10 +68,10 @@
         "guarantee_hRgHmq": {
           "type": "guarantee",
           "settings": {
-            "icon": "heart",
+            "icon": "headset",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "Handcrafted",
+            "title": "24/7 Service + Lifetime Warranty",
             "title_size": "h3",
             "text": ""
           }
@@ -80,7 +82,7 @@
             "icon": "star",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "High Quality",
+            "title": "100-Day Money Back Gurantee",
             "title_size": "h3",
             "text": ""
           }
@@ -95,7 +97,7 @@
         "layout": "default",
         "column_alignment": "center",
         "horizontal_content": false,
-        "full_width": false,
+        "full_width": true,
         "show_divider": false,
         "columns_desktop": 2,
         "heading": "",
@@ -105,7 +107,7 @@
         "swipe_on_mobile": false,
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#d1b24a",
+        "colors_text": "#000000",
         "colors_background": "#ffffff",
         "gradient_background": "",
         "padding_top": 36,
@@ -138,6 +140,7 @@
         "heading_rPRD6Q",
         "text_HN3gyr"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "text_alignment": "center",
@@ -165,12 +168,12 @@
         "horizontal_scroll": false,
         "show_view_all": true,
         "show_divider": false,
-        "heading": "Customer Favorites",
+        "heading": "",
         "heading_size": "h1",
         "heading_alignment": "left",
         "heading_tag": "h2",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "image_position": "center center",
         "enable_image_fill": true,
@@ -182,7 +185,7 @@
         "enable_quick_view": true,
         "enable_color_swatches": true,
         "enable_countdown": true,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
