@@ -17,26 +17,36 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Free Delivery All Over UAE 🇦🇪",
+            "text": "FREE DELIVERY ALL OVER THE UAE 🇦🇪",
             "text_on_mobile": "",
-            "text_size": 13,
+            "text_size": 14,
+            "link": ""
+          }
+        },
+        "announcement_7hXtTn": {
+          "type": "announcement",
+          "settings": {
+            "text": "NEXT DAY DELIVERY 🇦🇪",
+            "text_on_mobile": "",
+            "text_size": 14,
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_7hXtTn"
       ],
       "name": "Announcement bar",
       "settings": {
         "only_homepage": false,
         "layout": "marquee",
-        "mobile_layout": "marquee",
+        "mobile_layout": "carousel",
         "autorotate": true,
         "autorotate_speed": 5,
         "show_navigation": true,
         "direction": "left",
-        "speed": 1.6,
+        "speed": 2,
         "colors_text": "#ffffff",
         "colors_background": "#d1b24a",
         "gradient_background": "",

@@ -33,37 +33,28 @@
             "price_size": "medium"
           }
         },
-        "rating": {
-          "type": "rating",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "auto"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "show_variant_labels": true,
-            "picker_type": "button",
-            "enable_color_swatches": true,
-            "swatches_source": "file",
-            "swatch_type": "round",
-            "enable_swatch_cross": true,
-            "enable_swatch_unavailable_click": false,
-            "size_chart": ""
-          }
-        },
         "text_87hmGD": {
           "type": "text",
           "settings": {
-            "icon": "truck",
-            "text": "Free Delivery All Over🇦🇪",
-            "text_style": "subtitle"
+            "icon": "star",
+            "text": "Real 18k Gold Plating",
+            "text_style": "body"
+          }
+        },
+        "text_K7UTqY": {
+          "type": "text",
+          "settings": {
+            "icon": "heart",
+            "text": "Pure Stainless Steel",
+            "text_style": "body"
+          }
+        },
+        "text_mmYypM": {
+          "type": "text",
+          "settings": {
+            "icon": "check_mark",
+            "text": "Water, Rust, & Tarnish Resistant",
+            "text_style": "body"
           }
         },
         "pumper_bundles_quantity_breaks_app_block_qb_JAhRWy": {
@@ -90,19 +81,41 @@
         },
         "collapsible_description_89DWLm": {
           "type": "collapsible_description",
+          "disabled": true,
           "settings": {
             "icon": "clipboard",
             "heading": "Description",
             "keep_open": false
           }
         },
+        "collapsible_tab_7HXfDf": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "price_tag",
+            "heading": "Try it for 30 days, risk-free.🕒 If you're not happy with your bangle — full refund! 💵",
+            "content": "<p>We want you to be 100% satisfied with your purchase.<br/><br/>If you are not happy with your Ayatul Kursi Bangle, you can ask for a full refund within 30 days of delivery, no questions asked.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
         "collapsible_tab_EWz9d4": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "icon": "ruler",
-            "heading": "Size chart",
-            "content": "<p><strong>• Height:</strong>6 cm<br/><strong>• Width:</strong>6.5 cm<br/><strong>• Thickness:</strong>0,2 cm<br/><strong>• Weight:</strong>12.6 grams</p>",
+            "heading": "Real 18K Gold Plating on Pure Stainless Steel & fully adjustable; one size fits all.",
+            "content": "<ul><li><strong>Material:</strong> Real 18K Gold Plating on Pure Stainless Steel</li><li><strong>Size:</strong> 15.25 cm (Average wrist size) - Adjustable to any size</li><li><strong>Height:</strong> 6 cm</li><li><strong>Thickness: </strong>0.2 cm</li><li><strong>Weight:</strong>12.6 grams</li><li><strong>Hypoallergenic | Sensitive-skin Friendly</strong></li></ul>",
+            "page": "",
+            "custom_liquid": "",
+            "keep_open": false
+          }
+        },
+        "collapsible_tab_TrULKi": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "clipboard",
+            "heading": "Jewelry built on faith",
+            "content": "<p>The Ayatul Kursi Bangle features the most powerful verse in the Qur'an, beautifully engraved across its front and back. Known for providing protection when recited, this intricate calligraphy design offers timeless beauty and profound meaning.</p><p>Reciting Ayatul Kursi every morning offers divine protection until nightfall.</p><p>Wear this piece as a daily reminder of your faith, or gift it to a loved one.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -125,15 +138,16 @@
       "block_order": [
         "custom_liquid_t3yHKh",
         "title",
-        "rating",
-        "price",
-        "variant_picker",
         "text_87hmGD",
+        "text_K7UTqY",
+        "text_mmYypM",
         "pumper_bundles_quantity_breaks_app_block_qb_JAhRWy",
         "buy_buttons",
         "custom_liquid_fYcGFb",
         "collapsible_description_89DWLm",
+        "collapsible_tab_7HXfDf",
         "collapsible_tab_EWz9d4",
+        "collapsible_tab_TrULKi",
         "related_buttons",
         "sticky_cart"
       ],
