@@ -94,7 +94,7 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "ruler",
-            "heading": "Real 18K Gold Plating on Pure Stainless Steel & fully adjustable; one size fits all",
+            "heading": "Real 18K Gold Plating on Pure Stainless Steel & fully adjustable; one size fits all.",
             "content": "<ul><li><strong>Material:</strong> Real 18K Gold Plating on Pure Stainless Steel</li><li><strong>Size:</strong> 15.25 cm (Average wrist size) - Adjustable to any size</li><li><strong>Height:</strong> 6 cm</li><li><strong>Thickness: </strong>0.2 cm</li><li><strong>Weight:</strong>12.6 grams</li><li><strong>Hypoallergenic | Sensitive-skin Friendly</strong></li></ul>",
             "page": "",
             "custom_liquid": "",
@@ -379,7 +379,7 @@
           "type": "question",
           "settings": {
             "title": "Do you use real gold?",
-            "text": "<p>Absolutely. We only use real gold plating on all of our gold pieces. Underneath, we use pure stainless steel so that you can wear this piece around water and sweat and never worry about any fading or tarnishing.</p><p>Our Rose Gold pieces have the same pure stainless steel base, and are coated with real gold, but blended with copper to achieve its gorgeous rose-colored hue.</p><p>Our Silver pieces are also made from pure stainless steel, and simply polished for that beautiful lifelong shine.</p><p>Men's pieces are all made with pure stainless steel for the same waterproof & sweatproof promise.</p>"
+            "text": "<p>Absolutely. We only use real gold plating on all of our gold pieces. Underneath, we use pure stainless steel so that you can wear this piece around water and sweat and never worry about any fading or tarnishing.</p><p>Our Silver pieces are also made from pure stainless steel, and simply polished for that beautiful lifelong shine.</p><p>Men's pieces are all made with pure stainless steel for the same waterproof & sweatproof promise.</p>"
           }
         },
         "question_76NADG": {
@@ -442,7 +442,7 @@
         "show_rating": true,
         "show_quick_buy": true,
         "enable_quick_view": true,
-        "enable_color_swatches": false,
+        "enable_color_swatches": true,
         "enable_countdown": true,
         "padding_top": 36,
         "padding_bottom": 36
