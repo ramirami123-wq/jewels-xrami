@@ -213,6 +213,7 @@
         "announcement-1",
         "announcement-3"
       ],
+      "disabled": true,
       "settings": {
         "direction": "left",
         "speed": 1.6,
@@ -233,9 +234,9 @@
           "type": "guarantee",
           "settings": {
             "icon": "ruler",
-            "icon_size": "medium",
+            "icon_size": "small",
             "custom_icon": "",
-            "title": "Adjustable Fit",
+            "title": "Free Delivery All Over🇦🇪",
             "title_size": "h4",
             "text": ""
           }
@@ -244,9 +245,9 @@
           "type": "guarantee",
           "settings": {
             "icon": "shield",
-            "icon_size": "medium",
+            "icon_size": "small",
             "custom_icon": "",
-            "title": "Tarnish Resistant",
+            "title": "1 Item = 1 Meal to Palestine",
             "title_size": "h4",
             "text": ""
           }
@@ -255,9 +256,9 @@
           "type": "guarantee",
           "settings": {
             "icon": "heart",
-            "icon_size": "medium",
+            "icon_size": "small",
             "custom_icon": "",
-            "title": "Handcrafted Quality",
+            "title": "Lifetime Warranty on All Jewelry",
             "title_size": "h4",
             "text": ""
           }
@@ -275,11 +276,11 @@
         "layout": "default",
         "column_alignment": "center",
         "horizontal_content": false,
-        "full_width": true,
+        "full_width": false,
         "show_divider": false,
         "columns_desktop": 3,
-        "heading": "Guarantees",
-        "heading_size": "h1",
+        "heading": "",
+        "heading_size": "h2",
         "heading_tag": "h2",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
@@ -288,7 +289,7 @@
         "colors_text": "#1a1b18",
         "colors_background": "#ffffff",
         "gradient_background": "",
-        "padding_top": 72,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -456,8 +457,8 @@
   "order": [
     "empty-space",
     "main",
-    "scrolling-promotion",
     "guarantees",
+    "scrolling-promotion",
     "so_wffMjg",
     "faq_mB6n6b",
     "product-recommendations"
