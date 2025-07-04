@@ -427,7 +427,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "product_list_limit": 4,
+        "product_list_limit": 2,
         "show_divider": false,
         "heading": "Don't forget these",
         "heading_size": "h2",
