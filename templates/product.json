@@ -92,8 +92,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "price_tag",
-            "heading": "Try it for 30 days, risk-free.🕒 If you're not happy with your bangle — full refund! 💵",
-            "content": "<p>We want you to be 100% satisfied with your purchase.<br/><br/>If you are not happy with your Ayatul Kursi Bangle, you can ask for a full refund within 30 days of delivery, no questions asked.</p>",
+            "heading": "Wear it for 100 days, risk-free.🕒 If you see any tarnish or rust — full refund! 💵",
+            "content": "<p>We want you to be 100% satisfied with your purchase.<br/><br/>If you see any tarnish or rust with your Ayatul Kursi Bangle, you can ask for a full refund within 30 days of delivery, no questions asked.</p>",
             "page": "",
             "custom_liquid": "",
             "keep_open": false
@@ -188,7 +188,7 @@
         "guarantee-1": {
           "type": "guarantee",
           "settings": {
-            "icon": "shield",
+            "icon": "shop",
             "icon_size": "small",
             "custom_icon": "",
             "title": "1 Item = 1 Meal to Palestine",
@@ -199,10 +199,21 @@
         "guarantee-2": {
           "type": "guarantee",
           "settings": {
-            "icon": "heart",
+            "icon": "price_tag",
             "icon_size": "small",
             "custom_icon": "",
             "title": "Lifetime Warranty on All Jewelry",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee_kxmjRC": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "icon_size": "small",
+            "custom_icon": "",
+            "title": "Perfect for Gifting to Your Loved One",
             "title_size": "h4",
             "text": ""
           }
@@ -211,7 +222,8 @@
       "block_order": [
         "guarantee-0",
         "guarantee-1",
-        "guarantee-2"
+        "guarantee-2",
+        "guarantee_kxmjRC"
       ],
       "custom_css": [
         "span {color: white;}"
@@ -222,7 +234,7 @@
         "horizontal_content": false,
         "full_width": false,
         "show_divider": false,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "heading": "",
         "heading_size": "h2",
         "heading_tag": "h2",
