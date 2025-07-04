@@ -22,7 +22,7 @@
         "custom_liquid_t3yHKh": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<p style=\"font-size:1.5rem;\">4.9 ⭐⭐⭐⭐⭐ (1,186)</p>"
+            "custom_liquid": "<p style=\"font-size:1.5rem;\">4.9 ⭐⭐⭐⭐⭐ (355)</p>"
           }
         },
         "title": {
@@ -31,31 +31,6 @@
             "title_size": "h1",
             "show_price": false,
             "price_size": "medium"
-          }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "price_size": "medium",
-            "show_badges": true,
-            "sale_badge_basis": "auto"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "show_variant_labels": true,
-            "picker_type": "button",
-            "enable_color_swatches": true,
-            "swatches_source": "file",
-            "swatch_type": "round",
-            "enable_swatch_cross": true,
-            "enable_swatch_unavailable_click": false,
-            "size_chart": ""
           }
         },
         "text_87hmGD": {
@@ -125,9 +100,6 @@
       "block_order": [
         "custom_liquid_t3yHKh",
         "title",
-        "rating",
-        "price",
-        "variant_picker",
         "text_87hmGD",
         "pumper_bundles_quantity_breaks_app_block_qb_JAhRWy",
         "buy_buttons",
