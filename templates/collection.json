@@ -99,7 +99,7 @@
         "show_rating": true,
         "show_quick_buy": true,
         "enable_quick_view": true,
-        "enable_color_swatches": true,
+        "enable_color_swatches": false,
         "enable_countdown": false,
         "padding_top": 0,
         "padding_bottom": 72
@@ -128,6 +128,57 @@
         "padding_top": 60,
         "padding_bottom": 36
       }
+    },
+    "faq_QJ33TB": {
+      "type": "faq",
+      "blocks": {
+        "question_ek8bBX": {
+          "type": "question",
+          "settings": {
+            "title": "Do you use real gold?",
+            "text": "<p>Absolutely. We only use real gold plating on all of our gold pieces. Underneath, we use pure stainless steel so that you can wear this piece around water and sweat and never worry about any fading or tarnishing.</p><p>Our Silver pieces are also made from pure stainless steel, and simply polished for that beautiful lifelong shine.</p><p>Men's pieces are all made with pure stainless steel for the same waterproof & sweatproof promise.</p>"
+          }
+        },
+        "question_6ww3eX": {
+          "type": "question",
+          "settings": {
+            "title": "Are your pieces handmade?",
+            "text": "<p>Yes, all of our jewelry is handcrafted with care and intention to ensure each piece holds meaning and quality.</p>"
+          }
+        },
+        "question_gxiUWa": {
+          "type": "question",
+          "settings": {
+            "title": "Is there a warranty with my piece?",
+            "text": "<p>Absolutely. We cover every single piece we sell with a Lifetime Warranty against any rust or tarnish, if you ever experience any fading on your jewelry, just e-mail us a photo and we'll get you taken care of.</p>"
+          }
+        },
+        "question_pdDKwR": {
+          "type": "question",
+          "settings": {
+            "title": "How long does it take to receive my order?",
+            "text": "<p>We offer Free Delivery on all orders, all over UAE.</p><p>Orders are delivered the same day<strong> </strong>or the next day if placed late in the day.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_ek8bBX",
+        "question_6ww3eX",
+        "question_gxiUWa",
+        "question_pdDKwR"
+      ],
+      "name": "t:sections.faq.presets.name",
+      "settings": {
+        "narrow": false,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -135,6 +186,7 @@
     "rich_text_bckizm",
     "subs",
     "product-grid",
-    "recently-viewed"
+    "recently-viewed",
+    "faq_QJ33TB"
   ]
 }
