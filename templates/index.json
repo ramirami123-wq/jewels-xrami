@@ -15,7 +15,6 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/359A0940.png",
             "image_position": "center center",
             "text_box_position": "bottom-left",
             "subheading": "",
@@ -279,10 +278,6 @@
       ],
       "name": "t:sections.images-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/wornring.webp",
-        "image_2": "shopify://shop_images/359A1134.png",
-        "image_3": "shopify://shop_images/359A0940.png",
-        "image_4": "shopify://shop_images/ban11.webp",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
