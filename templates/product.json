@@ -57,14 +57,6 @@
             "text_style": "body"
           }
         },
-        "pumper_bundles_quantity_breaks_app_block_qb_JAhRWy": {
-          "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
-          "disabled": true,
-          "settings": {
-            "selected_product": "ayatul-kursi-bangle",
-            "using_page_builder": false
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -125,7 +117,6 @@
         "text_87hmGD",
         "text_K7UTqY",
         "text_mmYypM",
-        "pumper_bundles_quantity_breaks_app_block_qb_JAhRWy",
         "buy_buttons",
         "custom_liquid_fYcGFb",
         "collapsible_tab_7HXfDf",
