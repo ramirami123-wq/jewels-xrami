@@ -55,7 +55,7 @@
         "pumper_bundles_quantity_breaks_app_block_qb_JAhRWy": {
           "type": "shopify://apps/pumper-bundles-quantity-breaks/blocks/app-block-qb/0856870d-2aca-4b1e-a662-cf1797f61270",
           "settings": {
-            "selected_product": "{{product}}",
+            "selected_product": "ayatul-kursi-bangle",
             "using_page_builder": false
           }
         },
