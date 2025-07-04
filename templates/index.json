@@ -107,7 +107,7 @@
         "swipe_on_mobile": false,
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#000000",
+        "colors_text": "#d1b24a",
         "colors_background": "#ffffff",
         "gradient_background": "",
         "padding_top": 36,
@@ -169,7 +169,7 @@
         "show_view_all": true,
         "show_divider": false,
         "heading": "Everyone's favorites, for a reason.",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "heading_alignment": "left",
         "heading_tag": "h2",
         "columns_mobile": "2",
@@ -268,7 +268,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Now",
-            "button_link": "shopify://collections/all",
+            "button_link": "shopify://products/ayatul-kursi-bangle",
             "button_size": "medium",
             "button_style_secondary": false
           }
@@ -281,6 +281,10 @@
       ],
       "name": "t:sections.images-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/Nominal_Image_2.webp",
+        "image_2": "shopify://shop_images/Silver_Bangle_1.webp",
+        "image_3": "shopify://shop_images/Ring_1.webp",
+        "image_4": "shopify://shop_images/Nominal_Image_5.webp",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
