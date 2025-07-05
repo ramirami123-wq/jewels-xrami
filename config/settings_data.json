@@ -68,6 +68,7 @@
     "cart_recommendations_products": [
       "ayatul-kursi-bangle"
     ],
+    "empty_cart_message": "<p>Shop Islamic Jewelry</p>",
     "predictive_search_enabled": false,
     "predictive_search_show_vendor": false,
     "currency_code_enabled": false,
