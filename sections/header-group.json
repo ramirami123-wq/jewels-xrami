@@ -60,8 +60,10 @@
         ".icon-search {display: none;}"
       ],
       "settings": {
-        "logo_height": 50,
-        "mobile_logo_height": 44,
+        "logo": "shopify://shop_images/BARAKA__1700_x_1080_px___1_-removebg-preview.png",
+        "mobile_logo": "shopify://shop_images/BARAKA__1700_x_1080_px___1_-removebg-preview.png",
+        "logo_height": 76,
+        "mobile_logo_height": 66,
         "logo_position": "top-center",
         "menu": "main-menu",
         "menu_mobile": "main-menu",
@@ -74,6 +76,8 @@
         "enable_language_selector": false,
         "enable_sticky_header": true,
         "show_sticky_header_scroll_up": true,
+        "transparent_logo": "shopify://shop_images/BARAKA__1700_x_1080_px_-removebg-preview.png",
+        "mobile_transparent_logo": "shopify://shop_images/BARAKA__1700_x_1080_px_-removebg-preview.png",
         "enable_transparent_header": true,
         "enable_transparent_header_collection": true,
         "enable_transparent_header_custom": "",
