@@ -36,6 +36,14 @@
         "text_87hmGD": {
           "type": "text",
           "settings": {
+            "icon": "none",
+            "text": "Fully adjustable; one size fits all.",
+            "text_style": "uppercase"
+          }
+        },
+        "text_GNEQUD": {
+          "type": "text",
+          "settings": {
             "icon": "star",
             "text": "Real 18k Gold Plating",
             "text_style": "body"
@@ -93,7 +101,7 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "ruler",
-            "heading": "Real 18K Gold Plating on Pure Stainless Steel & fully adjustable; one size fits all.",
+            "heading": "Real 18K Gold Plating on Pure Stainless Steel & Adjustable to any size",
             "content": "<ul><li><strong>Material:</strong> Real 18K Gold Plating on Pure Stainless Steel</li><li><strong>Size:</strong> 15.25 cm (Average wrist size) - Adjustable to any size</li><li><strong>Height:</strong> 6 cm</li><li><strong>Thickness: </strong>0.2 cm</li><li><strong>Weight:</strong>12.6 grams</li><li><strong>Hypoallergenic | Sensitive-skin Friendly</strong></li></ul>",
             "page": "",
             "custom_liquid": "",
@@ -122,6 +130,7 @@
         "custom_liquid_t3yHKh",
         "title",
         "text_87hmGD",
+        "text_GNEQUD",
         "text_K7UTqY",
         "text_mmYypM",
         "buy_buttons",
