@@ -42,8 +42,8 @@
         "colors_text": "#000000",
         "colors_heading": "#000000",
         "colors_link": "#212326",
-        "colors_border": "#000000",
-        "colors_background": "#d1b24a",
+        "colors_border": "#ffffff",
+        "colors_background": "#ffffff",
         "gradient_background": ""
       }
     }
