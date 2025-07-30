@@ -18,7 +18,7 @@
           "type": "link_list",
           "settings": {
             "heading": "Shop",
-            "menu": "footer"
+            "menu": "main-menu"
           }
         }
       },
