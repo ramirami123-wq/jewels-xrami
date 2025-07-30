@@ -62,56 +62,104 @@
         "padding_bottom": 0
       }
     },
-    "guarantees_FEhw9U": {
-      "type": "guarantees",
+    "rich_text_J4RdYY": {
+      "type": "rich-text",
       "blocks": {
-        "guarantee_hRgHmq": {
-          "type": "guarantee",
+        "heading_ECfHrX": {
+          "type": "heading",
           "settings": {
-            "icon": "headset",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "24/7 Service + Lifetime Warranty",
-            "title_size": "h3",
-            "text": ""
+            "heading": "Every item matters",
+            "heading_size": "h1",
+            "heading_tag": "h2"
           }
         },
-        "guarantee_96tMtb": {
-          "type": "guarantee",
+        "text_ypb3y6": {
+          "type": "text",
           "settings": {
-            "icon": "star",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "title": "100-Day Money Back Gurantee",
-            "title_size": "h3",
-            "text": ""
+            "text": "<p>For every item ordered—a meal is donated to Palestine via ShareTheMeal. Thank you for your support.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": "item\nPalestine",
+            "highlight_style": "circle"
           }
         }
       },
       "block_order": [
-        "guarantee_hRgHmq",
-        "guarantee_96tMtb"
+        "heading_ECfHrX",
+        "text_ypb3y6"
       ],
-      "name": "t:sections.guarantees.presets.name",
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "layout": "default",
-        "column_alignment": "center",
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
         "horizontal_content": false,
-        "full_width": true,
+        "narrow": false,
         "show_divider": false,
-        "columns_desktop": 2,
-        "heading": "",
-        "heading_size": "h1",
-        "heading_tag": "h2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
         "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#d1b24a",
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
         "colors_background": "#ffffff",
+        "colors_highlight": "#004220ff",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_PjmtEm": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_6KdjnC": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Lifetime Warranty on All Jewelry",
+            "text_size": 18,
+            "link": ""
+          }
+        },
+        "announcement_bfUimz": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "100-Days Money Back Guarantee",
+            "text_size": 18,
+            "link": ""
+          }
+        },
+        "announcement_UHjywq": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "No Rust or Color Change",
+            "text_size": 18,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_6KdjnC",
+        "announcement_bfUimz",
+        "announcement_UHjywq"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#000000",
+        "gradient_background": "linear-gradient(270deg, rgba(0, 50, 24, 1), rgba(5, 92, 26, 1) 50%, rgba(0, 92, 8, 1) 100%)",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "rich_text_tVNrLk": {
@@ -185,7 +233,7 @@
         "enable_quick_view": true,
         "enable_color_swatches": false,
         "enable_countdown": true,
-        "padding_top": 0,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -231,6 +279,7 @@
         "announcement_XJciHX",
         "announcement_whMfym"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling-promotion.presets.name",
       "settings": {
         "direction": "left",
@@ -425,7 +474,8 @@
   },
   "order": [
     "slideshow",
-    "guarantees_FEhw9U",
+    "rich_text_J4RdYY",
+    "scrolling_promotion_PjmtEm",
     "rich_text_tVNrLk",
     "featured_collection_eYChU7",
     "scrolling_promotion_EU9PQn",
