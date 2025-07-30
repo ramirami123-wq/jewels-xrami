@@ -486,7 +486,7 @@
         "heading_WmCDWJ": {
           "type": "heading",
           "settings": {
-            "heading": "Layered images with text",
+            "heading": "Lifetime Warranty",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -494,34 +494,28 @@
         "text_gPKJGF": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "typeset2",
+            "text": "<p>Buy it once, <strong>wear it for a lifetime. </strong>Baraka Jewels are made to last a lifetime. To back up our claim, we cover all our jewelry for life from the original purchaser. If any damage occurs such as manufacturing defects, rust, tarnish & color fading. Simply reach out to us & you will receive a brand new replacement for free. No questions asked.</p>",
+            "text_size": "typeset",
             "secondary_color": false
-          }
-        },
-        "button_YaHM7T": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_WmCDWJ",
-        "text_gPKJGF",
-        "button_YaHM7T"
+        "text_gPKJGF"
       ],
       "name": "t:sections.images-with-text.presets.name",
       "settings": {
-        "image_ratio": "portrait",
+        "image": "shopify://shop_images/Huda-Bangle-All.webp",
+        "image_2": "shopify://shop_images/AKBN_ALL_2.jpg",
+        "image_3": "shopify://shop_images/AKAR_ALL_1.jpg",
+        "image_4": "shopify://shop_images/AKR_ALL.jpg",
+        "image_ratio": "square",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
-        "text_alignment": "left",
-        "mobile_text_alignment": "left",
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
         "full_width": false,
         "show_divider": false,
         "padding_top": 36,
