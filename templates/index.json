@@ -100,7 +100,7 @@
         "colors_button_background": "#1a1b18",
         "colors_text": "#212326",
         "colors_background": "#ffffff",
-        "colors_highlight": "#004220ff",
+        "colors_highlight": "#004220",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -221,7 +221,7 @@
         "heading_alignment": "left",
         "heading_tag": "h2",
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "image_ratio": "adapt",
         "image_position": "center center",
         "enable_image_fill": true,
