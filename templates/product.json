@@ -33,19 +33,18 @@
             "price_size": "medium"
           }
         },
-        "custom_liquid_hRLKH6": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<p style=\"font-size:1.5rem;\">*Wear it for 100 days, risk-free.🕒 If you see any tarnish or rust — full refund! 💵</p>"
-          }
-        },
         "text_87hmGD": {
           "type": "text",
           "settings": {
             "icon": "none",
             "text": "*Wear it for 100 days, risk-free.🕒 If you see any color change or rust — full refund! 💵",
             "text_style": "uppercase"
+          }
+        },
+        "custom_liquid_pYkXNq": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"padding: 1px; text-align: left; background-color: #f5f5f5; font-size: 18px; border-radius: 13px; margin-top: 1px; margin-bottom: 8px; display: flex; align-items: center;\"> \n   \n\n<p style=\"font-size:1.5rem;\">🇵🇸1x Meal Donated For Every Item Ordered</p>"
           }
         },
         "text_GNEQUD": {
@@ -133,8 +132,8 @@
       "block_order": [
         "custom_liquid_t3yHKh",
         "title",
-        "custom_liquid_hRLKH6",
         "text_87hmGD",
+        "custom_liquid_pYkXNq",
         "text_GNEQUD",
         "text_K7UTqY",
         "text_mmYypM",
@@ -172,7 +171,8 @@
           "type": "guarantee",
           "settings": {
             "icon": "truck",
-            "icon_size": "small",
+            "icon_size": "large",
+            "image": "shopify://shop_images/delivery-truck_8.png",
             "custom_icon": "",
             "title": "Free Delivery All Over UAE🇦🇪",
             "title_size": "h4",
@@ -183,9 +183,10 @@
           "type": "guarantee",
           "settings": {
             "icon": "shop",
-            "icon_size": "small",
+            "icon_size": "large",
+            "image": "shopify://shop_images/flag-of-palestine-in-heart-shape-palestine-national-symbol-illustration-vector-removebg-preview.webp",
             "custom_icon": "",
-            "title": "1 Item = 1 Meal to Palestine🇵🇸",
+            "title": "1 Item = 1 Meal to Palestine",
             "title_size": "h4",
             "text": ""
           }
@@ -194,7 +195,8 @@
           "type": "guarantee",
           "settings": {
             "icon": "check_mark",
-            "icon_size": "small",
+            "icon_size": "large",
+            "image": "shopify://shop_images/warranty.png",
             "custom_icon": "",
             "title": "Lifetime Warranty on All Jewelry",
             "title_size": "h4",
@@ -205,7 +207,8 @@
           "type": "guarantee",
           "settings": {
             "icon": "price_tag",
-            "icon_size": "small",
+            "icon_size": "large",
+            "image": "shopify://shop_images/all_1.png",
             "custom_icon": "",
             "title": "100 Day Money Back Guarantee",
             "title_size": "h4",
@@ -234,7 +237,7 @@
         "heading_tag": "h2",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "use_custom_colors": true,
+        "use_custom_colors": false,
         "colors_icon": "#d1b24a",
         "colors_text": "#1a1b18",
         "colors_background": "#ffffff",
