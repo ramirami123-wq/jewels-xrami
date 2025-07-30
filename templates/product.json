@@ -44,7 +44,7 @@
         "custom_liquid_pYkXNq": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 1px; text-align: left; background-color: #f5f5f5; font-size: 18px; border-radius: 13px; margin-top: 1px; margin-bottom: 8px; display: flex; align-items: center;\"> \n   \n\n<p style=\"font-size:1.5rem;\">🇵🇸 1x Meal Donated For Every Item Ordered</p>"
+            "custom_liquid": "<div style=\"padding: 4px 16px; text-align: left; background-color: #f5f5f5; font-size: 18px; border-radius: 13px; margin-top: 1px; margin-bottom: 8px; display: flex; align-items: center;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0717/1863/3650/files/flag-of-palestine-in-heart-shape-palestine-national-symbol-illustration-vector-removebg-preview.webp?v=1753853673\" \n       alt=\"Palestine Flag\" \n       style=\"height: 32px; margin-left: 0px; margin-right: 12px;\" />\n  <p style=\"font-size: 1.2rem; font-weight: bold; margin: 0;\">1x Meal Donated For Every Item Ordered</p>\n</div>"
           }
         },
         "text_GNEQUD": {
