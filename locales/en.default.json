@@ -82,7 +82,7 @@
       },
       "free_shipping": {
         "remaining_html": "Spend {{ remaining_amount }} more to reach free shipping",
-        "congratulations_html": "Each item donates a meal to Palestine 🇵🇸"
+        "congratulations_html": "Each item ordered donates a meal to Palestine 🇵🇸"
       }
     },
     "share": {
