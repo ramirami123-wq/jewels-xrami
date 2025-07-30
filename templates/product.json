@@ -47,6 +47,16 @@
             "custom_liquid": "<div style=\"padding: 1px; text-align: left; background-color: #f5f5f5; font-size: 18px; border-radius: 13px; margin-top: 1px; margin-bottom: 8px; display: flex; align-items: center;\"> \n   \n\n<p style=\"font-size:1.5rem;\">🇵🇸1x Meal Donated For Every Item Ordered</p>"
           }
         },
+        "countdown_HLhL9U": {
+          "type": "countdown",
+          "settings": {
+            "heading": "OFFER ENDING IN",
+            "number_size": "compact",
+            "colors_heading": "#000000",
+            "colors_text": "#000000",
+            "colors_background": "#ffffff"
+          }
+        },
         "text_GNEQUD": {
           "type": "text",
           "disabled": true,
@@ -134,6 +144,7 @@
         "title",
         "text_87hmGD",
         "custom_liquid_pYkXNq",
+        "countdown_HLhL9U",
         "text_GNEQUD",
         "text_K7UTqY",
         "text_mmYypM",
