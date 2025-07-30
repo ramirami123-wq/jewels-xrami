@@ -76,7 +76,7 @@
         "text_ypb3y6": {
           "type": "text",
           "settings": {
-            "text": "<p>For every item ordered—a meal is donated to Palestine via ShareTheMeal. Thank you for your support.</p>",
+            "text": "<p>For every item ordered—a meal is donated to Palestine via ShareTheMeal. Thank you for your support.<br/><br/><em>-Baraka Jewels team 🇵🇸❤️</em></p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "item\nPalestine",
