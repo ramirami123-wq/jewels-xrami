@@ -70,7 +70,7 @@
         "enable_dropdown_menu": true,
         "show_line_separator": true,
         "uppercase_menu_items": true,
-        "cart_icon": "bag",
+        "cart_icon": "cart",
         "icon_weight": "1.1",
         "enable_country_selector": false,
         "enable_language_selector": false,
