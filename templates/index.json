@@ -157,7 +157,7 @@
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
         "colors_background": "#000000",
-        "gradient_background": "linear-gradient(270deg, rgba(0, 50, 24, 1), rgba(5, 92, 26, 1) 50%, rgba(0, 92, 8, 1) 100%)",
+        "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
       }
