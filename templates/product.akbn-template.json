@@ -80,6 +80,12 @@
             "show_gift_card_recipient": false
           }
         },
+        "custom_liquid_9rk6We": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"payment-icons\" style=\"text-align: center;\">\n  <ul class=\"payment-icons\" style=\"list-style: none; padding: 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;\">\n    {% for type in shop.enabled_payment_types %}\n      <li>\n        <img src=\"{{ type | payment_type_img_url }}\" alt=\"{{ type | payment_type_name }}\" style=\"height: 25px;\" loading=\"lazy\">\n      </li>\n    {% endfor %}\n  </ul>\n</div>"
+          }
+        },
         "custom_liquid_fYcGFb": {
           "type": "custom_liquid",
           "settings": {
@@ -144,6 +150,7 @@
         "text_K7UTqY",
         "text_mmYypM",
         "buy_buttons",
+        "custom_liquid_9rk6We",
         "custom_liquid_fYcGFb",
         "text_87hmGD",
         "collapsible_tab_7HXfDf",
