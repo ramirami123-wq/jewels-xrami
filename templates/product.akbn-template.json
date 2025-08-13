@@ -193,6 +193,18 @@
             "text": ""
           }
         },
+        "guarantee_kxmjRC": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "price_tag",
+            "icon_size": "large",
+            "image": "shopify://shop_images/pay.png",
+            "custom_icon": "",
+            "title": "Cash/Card On Delivery Available",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
         "guarantee-1": {
           "type": "guarantee",
           "settings": {
@@ -216,25 +228,13 @@
             "title_size": "h4",
             "text": ""
           }
-        },
-        "guarantee_kxmjRC": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "price_tag",
-            "icon_size": "large",
-            "image": "shopify://shop_images/all_1.png",
-            "custom_icon": "",
-            "title": "100 Day Money Back Guarantee",
-            "title_size": "h4",
-            "text": ""
-          }
         }
       },
       "block_order": [
         "guarantee-0",
+        "guarantee_kxmjRC",
         "guarantee-1",
-        "guarantee-2",
-        "guarantee_kxmjRC"
+        "guarantee-2"
       ],
       "custom_css": [
         "span {color: white;}"
