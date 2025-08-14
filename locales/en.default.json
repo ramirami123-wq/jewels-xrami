@@ -537,5 +537,12 @@
       "send_on": "YYYY-MM-DD",
       "send_on_label": "Send on (optional)"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "alternative_payment_method_banner": {
+        "express_checkout": "Express Checkout Note: Under \"Update Shipping Address\" please enter an Emirate (ex: Dubai) in the \"Area\" field to proceed with payment."
+      }
+    }
   }
 }
