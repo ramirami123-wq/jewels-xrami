@@ -76,7 +76,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_quantity_selector": false,
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
           }
         },
@@ -89,6 +89,7 @@
         },
         "custom_liquid_fW4ytU": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"payment-icons\" style=\"text-align: center;\">\n  <ul class=\"payment-icons\" style=\"list-style: none; padding: 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;\">\n    {% for type in shop.enabled_payment_types %}\n      <li>\n        <img src=\"{{ type | payment_type_img_url }}\" alt=\"{{ type | payment_type_name }}\" style=\"height: 25px;\" loading=\"lazy\">\n      </li>\n    {% endfor %}\n  </ul>\n</div>"
           }
