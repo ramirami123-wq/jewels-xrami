@@ -51,7 +51,7 @@
         "mobile_image_ratio": "600px",
         "show_text_below": false,
         "colors_button_label": "#ffffff",
-        "colors_button_background": "#d1b24a",
+        "colors_button_background": "#d1b685",
         "colors_text": "#ffffff",
         "colors_background": "#ffffff",
         "colors_overlay": "#1a1b18",
@@ -76,7 +76,7 @@
         "text_ypb3y6": {
           "type": "text",
           "settings": {
-            "text": "<p>For every item ordered—a meal is donated to Palestine via ShareTheMeal. Thank you for your support.<br/><br/><em>-Baraka Jewels team 🇵🇸❤️</em></p>",
+            "text": "<p>For every item ordered—a meal is donated to Palestine via ShareTheMeal. Thank you for your support.<br/><br/><em>-Baraka Jewels team 🇵🇸💛</em></p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "item\nPalestine",
@@ -98,9 +98,9 @@
         "use_custom_colors": true,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
-        "colors_text": "#212326",
+        "colors_text": "#545454",
         "colors_background": "#ffffff",
-        "colors_highlight": "#004220",
+        "colors_highlight": "#d1b685",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -155,8 +155,8 @@
         "show_divider": false,
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_background": "#000000",
+        "colors_text": "#545454",
+        "colors_background": "#ebe7e2",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
