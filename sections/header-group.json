@@ -74,7 +74,7 @@
         "icon_weight": "1.1",
         "enable_country_selector": false,
         "enable_language_selector": false,
-        "enable_sticky_header": true,
+        "enable_sticky_header": false,
         "show_sticky_header_scroll_up": true,
         "transparent_logo": "shopify://shop_images/Baraka_1700_x_1080_px_1700_x_720_px_2.png",
         "mobile_transparent_logo": "shopify://shop_images/Baraka_1700_x_1080_px_1700_x_720_px_2.png",
