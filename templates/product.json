@@ -19,6 +19,11 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "judge_me_reviews_preview_badge_f3JkCm": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {}
+        },
         "custom_liquid_t3yHKh": {
           "type": "custom_liquid",
           "settings": {
@@ -158,6 +163,7 @@
         }
       },
       "block_order": [
+        "judge_me_reviews_preview_badge_f3JkCm",
         "custom_liquid_t3yHKh",
         "title",
         "custom_liquid_gnUaka",
